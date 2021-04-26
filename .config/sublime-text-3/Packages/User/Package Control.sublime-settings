@@ -1,0 +1,35 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1337 Color Scheme",
+		"A File Icon",
+		"AcademicMarkdown",
+		"BracketHighlighter",
+		"Brackets Color Scheme",
+		"BracketSpacer",
+		"C Improved",
+		"C++ Snippets",
+		"C++ Starting Kit",
+		"C++11",
+		"C11",
+		"EditorConfig",
+		"GitHub Markdown Snippets",
+		"LyxMath",
+		"Markdown Extended",
+		"Markdown Images",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"MDX Syntax Highlighting",
+		"Package Control",
+		"Package Snippets",
+		"SideBarEnhancements",
+		"SidebarSeparator",
+		"SublimeLinter"
+	]
+}

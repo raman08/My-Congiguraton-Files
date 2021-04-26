@@ -1,0 +1,101 @@
+{
+	"files.encoding": "utf8",
+	"editor.fontSize": 16,
+	"files.hotExit": "off",
+	"workbench.editor.enablePreview": true,
+	"files.trimTrailingWhitespace": true,
+	"editor.wordWrap": "on",
+	"editor.formatOnPaste": true,
+	"editor.multiCursorModifier": "ctrlCmd",
+	"editor.snippetSuggestions": "top",
+	"python.pythonPath": "/usr/bin/python3",
+	"C_Cpp.updateChannel": "Insiders",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"explorer.confirmDelete": false,
+	"explorer.openEditors.visible": 0,
+	"explorer.decorations.badges": false,
+	"workbench.startupEditor": "newUntitledFile",
+	"material-icon-theme.showWelcomeMessage": false,
+	"editor.insertSpaces": false,
+	"workbench.list.smoothScrolling": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"workbench.editor.tabSizing": "shrink",
+	"workbench.settings.openDefaultKeybindings": true,
+	"workbench.settings.openDefaultSettings": true,
+	"window.titleBarStyle": "custom",
+	"workbench.tree.indent": 20,
+	"debug.onTaskErrors": "showErrors",
+	"workbench.activityBar.visible": true,
+	"editor.renderWhitespace": "all",
+	"editor.renderControlCharacters": false,
+	"workbench.colorCustomizations": {},
+	"material-icon-theme.folders.theme": "specific",
+	"workbench.colorTheme": "Monokai",
+	"editor.linkedEditing": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"explorer.confirmDragAndDrop": false,
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": true,
+	"workbench.editorAssociations": [
+		{
+			"viewType": "jupyter.notebook.ipynb",
+			"filenamePattern": "*.ipynb"
+		}
+	],
+	"window.zoomLevel": 1,
+	"files.eol": "\n",
+	"editor.tabSize": 4,
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"editor.minimap.enabled": false,
+	"breadcrumbs.enabled": false,
+
+	// Setting up VsCode Intellesence
+	"editor.suggestSelection": "first",
+	"vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+	"bracketPairColorizer.showBracketsInGutter": true,
+	"bracketPairColorizer.showHorizontalScopeLine": false,
+	"css.lint.duplicateProperties": "warning",
+
+	// ESLint Setting
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"eslint.alwaysShowStatus": true,
+	// "editor.codeActionsOnSave": {
+	// 	"source.fixAll.eslint": true
+	// },
+	"eslint.format.enable": false,
+	"eslint.probe": [
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"html",
+		"markdown"
+	],
+	"eslint.validate": ["javascript", "typescript"],
+	"eslint.codeActionsOnSave.mode": "all",
+
+	// Prittier Settings
+	"[json]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+
+	"prettier.trailingComma": "es5",
+	"prettier.useTabs": true,
+	"prettier.semi": true,
+	"prettier.singleQuote": true,
+	"prettier.bracketSpacing": true,
+	"prettier.jsxBracketSameLine": true,
+	"prettier.arrowParens": "avoid",
+	"[jsonc]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	},
+
+	"sync.quietSync": false,
+	"sync.forceUpload": false,
+	"sync.gist": "ec15ef2bfef96b37a00d1f604368a996",
+	"sync.autoUpload": true
+}

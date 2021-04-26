@@ -1,0 +1,6 @@
+// SublimeLinter Settings - User
+{
+	"gutter_theme": "Blueberry Cross",
+	"lint_mode": "load_save",
+	"show_marks_in_minimap": false
+}

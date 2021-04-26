@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"default_encoding": "UTF-8",
+	"font_size": 14,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Markdown",
+		"Vintage"
+	],
+	"material_theme_accent_acid-lime": true,
+	"material_theme_accent_graphite": true,
+	"material_theme_accent_orange": true,
+	"material_theme_bright_scrollbars": true,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"preview_on_click": true,
+	"show_full_path": false,
+	"show_git_status": false,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
